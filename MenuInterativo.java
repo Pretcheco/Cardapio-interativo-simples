@@ -19,11 +19,6 @@ public class MenuInterativo {
 		
 		boolean encerrar = false;
 		
-		//parei aqui, fazer o switch, ajeitar o add item para
-		//perguntar ao usuario se deseja mais itens, melhorar a parte de excluir menu
-		//boa noite sz
-		
-		
 		escrever("CARDAPIO DIGITAL", 200);
 		
 		while(encerrar != true) {
@@ -234,3 +229,4 @@ public class MenuInterativo {
 	
 	
 }
+
